@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "hypothesis": "Implementing GPU acceleration for specific API operations will result in at least a 40% reduction in overall response time for data-intensive API endpoints compared to traditional CPU-only processing."
+  },
+  {
+    "id": "example-1",
+    "hypothesis": "This is an example hypothesis that demonstrates the expected format.",
+    "_isExample": true
+  }
+]
